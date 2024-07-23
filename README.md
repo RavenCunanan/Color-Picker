@@ -7,10 +7,12 @@ Color Picker app using React + Vite, allowing users to effortlessly explore and 
 
 
 Cloning and Setting Up the Color Picker Project in VSCode
+
 Prerequisites:
 
 Node.js
 Vite
+
 Steps:
 
 1.Open your terminal and run the following command to create a new Vite project:
