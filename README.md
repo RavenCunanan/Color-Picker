@@ -11,7 +11,9 @@ Cloning and Setting Up the Color Picker Project in VSCode
 Prerequisites:
 
 Node.js
+
 Vite
+
 
 Steps:
 
