@@ -1,7 +1,8 @@
-# Color-Picker
-Color Picker app using React + Vite, allowing users to select colors. The app presents a collection of colors displayed as rounded squares. Hover over a color to reveal its hex code, or click to see its name.
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![11](https://github.com/user-attachments/assets/9c3bf165-6e25-4aa3-9428-65412a92ea9d)
+Currently, two official plugins are available:
 
-[111.webm](https://github.com/user-attachments/assets/9027d220-3671-46e2-9445-b0cb4031cb6b)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
